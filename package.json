@@ -59,7 +59,7 @@
 		"babel-plugin-react-compiler": "1.0.0",
 		"drizzle-kit": "^0.31.6",
 		"eslint": "^9",
-		"eslint-config-next": "16.0.2",
+		"eslint-config-next": "16.0.4",
 		"husky": "^9.1.7",
 		"inngest-cli": "^1.13.6",
 		"lint-staged": "^16.2.7",
